@@ -129,6 +129,5 @@ std::vector<int> hex_to_rgb(std::string hex_value) { //Input a string with a hex
 }
 
 int main() {
-	std::cout << rgb_to_hex(200, 255, 100) << std::endl;
 	return 0;
 }
